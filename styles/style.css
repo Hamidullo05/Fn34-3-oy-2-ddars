@@ -63,7 +63,7 @@ h5 {
     font-weight: 600;
     
 }
-h1 {
+.main_h {
     font-size: 48px;
     font-weight: 600;
 
@@ -118,4 +118,18 @@ p {
     padding-bottom: 138px;
     background: url(../images/image\ 1226.png);
     background-color: black;
+}
+.footer_h {
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 48px;
+    color: white;
+}
+.button {
+    width: 202px;
+    height: 56px;
+    background-color:  #1179FC;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
 }
